@@ -26,7 +26,7 @@ I’m a 19-year-old fullstack software engineer focused on building scalable app
 
 ---
 
-## 🧩 Current Focus
+## Current Focus
 
 ### Custom React UI Library
 
@@ -40,7 +40,7 @@ Designing and engineering a structured component system built for:
 
 ---
 
-## 🖥 Fullstack Development
+## Fullstack Development
 
 I build complete applications including:
 
@@ -57,7 +57,7 @@ I build complete applications including:
 
 ---
 
-## 📫 Contact
+## Contact
 
 - Portfolio (in progress)
 - Email
