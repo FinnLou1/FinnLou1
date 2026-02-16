@@ -1,6 +1,6 @@
-# 👋 Hi, I'm [Finn]
+# Hi, I'm Finn
 
-## 🚀 Fullstack Software Engineer (19) | UI Systems | Scalable Architecture
+## Fullstack Software Engineer (19) | UI Systems | Scalable Architecture
 
 I’m a 19-year-old fullstack software engineer focused on building scalable applications and structured UI systems.
 
