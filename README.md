@@ -1,4 +1,4 @@
-# 👋 Hi, I'm [Dein Name]
+# 👋 Hi, I'm [Finn]
 
 ## 🚀 Fullstack Software Engineer (19) | UI Systems | Scalable Architecture
 
