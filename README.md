@@ -55,9 +55,3 @@ I build complete applications including:
 
 ## I focus on writing software that scales — technically and architecturally.
 
----
-
-## Contact
-
-- Portfolio (in progress)
-- Email
