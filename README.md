@@ -4,9 +4,6 @@
 
 <br />
 
-**Apprentice software developer** (Fachinformatiker für Anwendungsentwicklung) from Stuttgart.<br />
-I like clean UI systems, well-structured code and shipping things people actually use.
-
 </div>
 
 <br />
