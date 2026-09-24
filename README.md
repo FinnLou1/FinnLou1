@@ -11,18 +11,6 @@ I like clean UI systems, well-structured code and shipping things people actuall
 
 <br />
 
-## `~/about`
-
-```ts
-const finn = {
-  role:      "Apprentice Software Developer",
-  training:  "Fachinformatiker für Anwendungsentwicklung",
-  location:  "Stuttgart, DE",
-  focus:     ["UI systems", "design tokens", "fullstack apps"],
-  currently: "building Vireon UI & contributing to open source",
-} as const;
-```
-
 ## `~/projects`
 
 <table>
@@ -38,12 +26,6 @@ const finn = {
       Lightweight React UI library for scalable design systems: accessible, token-based and built to work with Tailwind.
       <br /><br />
       <code>react</code> <code>design-system</code> <code>a11y</code>
-    </td>
-    <td width="33%" valign="top">
-      <h3>🖥️ <a href="https://github.com/Eugeny/tabby/issues/11701">Tabby</a></h3>
-      Open-source contribution to the Tabby terminal: profile tags and multi-term search for setups with hundreds of hosts.
-      <br /><br />
-      <code>typescript</code> <code>angular</code> <code>electron</code>
     </td>
   </tr>
 </table>
